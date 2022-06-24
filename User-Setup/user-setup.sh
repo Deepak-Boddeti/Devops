@@ -20,7 +20,7 @@ setup_pass()
 {
 
 if [ $1 == "sles" ];then
-  
+# for SUSE linux
    if [ ! -f /usr/bin/expect ] && [ ! -f /bin/expect ];then
 #        zypper -y update
         zypper install -y expect
