@@ -1,2 +1,2 @@
 # Devops
-Devops Learnings
+Devops Learnings using simple Shell scripts
